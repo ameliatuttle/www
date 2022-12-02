@@ -154,7 +154,7 @@ nav {
     grid-column: 3/6;
     grid-row: 3/8;
     background-color: #d16131;
-    z-index: o;
+    z-index: 0;
 }
 #daily_recipe {
     display: grid;
