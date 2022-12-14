@@ -173,6 +173,9 @@ nav {
     border: 5px solid black;
     box-shadow: 5px 5px 10px #6f7364;
 }
+.create:hover {
+    transform: scale(1.1);
+}
 .create h2 {
     padding-top: 5%;
 }
